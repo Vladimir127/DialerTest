@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Dialer Test</string>
-    <string name="set_default">Сделать приложением по умолчанию</string>
+    <string name="set_default_dialer">Приложение для звонков по умолчанию</string>
+    <string name="set_default_anti_spam">Приложение-антиспам по умолчанию</string>
     <string name="answer">Принять</string>
     <string name="decline">Отклонить</string>
     <string name="end">Завершить</string>
